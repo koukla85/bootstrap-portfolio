@@ -1,0 +1,44 @@
+
+
+p{
+	
+	letter-spacing: -2px;
+}
+
+.paraBold {
+	font-weight: bold;
+	letter-spacing: 24px;
+	font-family:'Indie Flower', cursive;
+}
+
+.paraLarge {
+	font-size: 24px;
+	font-family: 'Ravi Prakash', cursive;
+}
+
+.paraLineHeight{
+	line-height: 50pc;
+}
+ h1, h2, h3, h4, h5, h6 {
+ 	font-family: 'Oswald', sans-serif;
+ }
+
+a {
+	color: #00FF00;
+}
+
+a:hover {
+	color: purple;
+}
+
+a:active {
+	color: red;
+}
+
+a:focus{
+	color: blue;
+}
+
+a:visited{
+	color: olive;
+}

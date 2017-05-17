@@ -1,0 +1,19 @@
+a{
+	color: #00FF00;
+}
+
+a:hover{
+	color: purple;
+}
+
+a:active{
+	color: red;
+}
+
+a:focus{
+	color: olive;
+}
+
+a:visited{
+	color:orange;
+}
